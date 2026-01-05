@@ -1,0 +1,12 @@
+Flet  0.80.0
+mediapipe 0.10.21
+numpy 1.26.4
+os
+cv2
+face_Recognition
+threading
+time
+base64
+math
+traceback
+warnings
